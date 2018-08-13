@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7877f48-2fd1-4f11-b532-80678e51abd2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/sites/default/default.services.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/default/default.settings.php" beforeDir="false" />
-    </list>
+    <list default="true" id="f7877f48-2fd1-4f11-b532-80678e51abd2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,10 +146,10 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="2233" />
+    <option name="y" value="-31" />
+    <option name="width" value="1292" />
+    <option name="height" value="685" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -219,7 +216,7 @@
       <option name="presentableId" value="Default" />
       <updated>1534025593662</updated>
       <workItem from="1534025595253" duration="4685000" />
-      <workItem from="1534053008499" duration="1817000" />
+      <workItem from="1534053008499" duration="2412000" />
     </task>
     <task id="LOCAL-00001" summary="Fresh install of Drupal. Nothing done except initial install.">
       <created>1534054067804</created>
@@ -232,7 +229,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6502000" />
+    <option name="totallyTimeSpent" value="7097000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
